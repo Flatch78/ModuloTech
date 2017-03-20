@@ -1,0 +1,17 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.app.krier.modulotechtest.fragment.credit.CreditFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="@dimen/text_margin"
+        android:paddingBottom="@dimen/text_margin"
+        style="@style/TextViewStyle"
+        android:text="@string/lorem_ipsum" />
+
+</LinearLayout>
